@@ -1,0 +1,7 @@
+C:\Users\rsmid\Desktop\dev\c#\whatsForLunch\whatsForLunch\obj\Debug\whatsForLunch.csprojAssemblyReference.cache
+C:\Users\rsmid\Desktop\dev\c#\whatsForLunch\whatsForLunch\obj\Debug\whatsForLunch.csproj.CoreCompileInputs.cache
+C:\Users\rsmid\Desktop\dev\c#\whatsForLunch\whatsForLunch\bin\Debug\whatsForLunch.exe.config
+C:\Users\rsmid\Desktop\dev\c#\whatsForLunch\whatsForLunch\bin\Debug\whatsForLunch.exe
+C:\Users\rsmid\Desktop\dev\c#\whatsForLunch\whatsForLunch\bin\Debug\whatsForLunch.pdb
+C:\Users\rsmid\Desktop\dev\c#\whatsForLunch\whatsForLunch\obj\Debug\whatsForLunch.exe
+C:\Users\rsmid\Desktop\dev\c#\whatsForLunch\whatsForLunch\obj\Debug\whatsForLunch.pdb
